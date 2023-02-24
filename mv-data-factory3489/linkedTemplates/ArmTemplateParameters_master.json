@@ -5,6 +5,27 @@
 		"factoryName": {
 			"value": "mv-data-factory3489"
 		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
+		"AzureSynapseAnalytics1_connectionString": {
+			"value": ""
+		},
+		"AzureSynapseAnalytics2_connectionString": {
+			"value": ""
+		},
+		"mv_dbls_accessToken": {
+			"value": ""
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://awdlsstudmv.dfs.core.windows.net/"
+		},
+		"HttpServer1_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/djpmsft/adf-ready-demo/master/moviesDB.csv"
+		},
+		"mv_dbls_properties_typeProperties_existingClusterId": {
+			"value": "0223-044256-dftibm1h"
+		},
 		"containerUri": {
 			"value": ""
 		},
