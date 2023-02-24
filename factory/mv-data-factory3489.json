@@ -1,0 +1,9 @@
+{
+	"name": "mv-data-factory3489",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "08c7407b-30d6-4b8d-872a-d54e77defa78",
+		"tenantId": "bb3ce593-e200-4dce-957a-a6231afee606"
+	}
+}
